@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f2a623ec-68af-48d2-b14d-6ea2ac4f7b84/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/BackendDetectAnomaly",
+    "appService.deploySubpath": "."
+}
